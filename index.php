@@ -25,8 +25,8 @@ The CSCI-E 12 gave me some knowledge of HTML and CSS.<br><br>
 Currently I am helping a non profit using Joomla.<br><br>
 I work on a PC with Windows 8 and usually with Chrome.
 </p>
-
-<table style="text-align: center; border-spacing: 10px;">
+<div align="center">
+<table style="text-align: center; border-spacing: 10px; ;width:70%;align:center;">
 <tbody>
 <tr>
 <!-- PROJECT 2 -->
@@ -49,6 +49,7 @@ I work on a PC with Windows 8 and usually with Chrome.
 </tr>
 </tbody>
 </table>
-
+</div>
+    
 </body>
 </html>
